@@ -7,8 +7,16 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class RAGPipeline:
-    def __init__(self, model_name: Optional[str] = None):
-        self.llama_model = LlamaModel(model_name)
+    def __init__(self, model_name: Optional[str] = None, quantization: Optional[str] = None):
+        """
+        Initialize RAG pipeline.
+
+        Args:
+            model_name: Model identifier (defaults to MODEL_NAME in .env)
+            quantization: Quantization type - "4bit", "8bit", or "none" (defaults to QUANTIZATION in .env)
+        """
+        quant = quantization or os.getenv("QUANTIZATION", "4bit")
+        self.llama_model = LlamaModel(model_name, quantization=quant)
         self.vector_store = VectorStore()
         self.max_tokens = int(os.getenv("MAX_TOKENS", "512"))
         self.temperature = float(os.getenv("TEMPERATURE", "0.7"))
