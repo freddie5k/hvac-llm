@@ -1,0 +1,305 @@
+
+============================================================
+STARTUP: 2025-09-30 15:21:04.022421
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: None/CPU mode
+============================================================
+[   0.0s] Starting safety checks | RAM: 23.4%
+[   0.0s] Adding Python path | RAM: 23.4%
+[   0.0s] Importing chat module | RAM: 23.4%
+[  21.3s] Starting RAG system | RAM: 23.8%
+
+============================================================
+STARTUP: 2025-09-30 15:24:10.164507
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: None/CPU mode
+============================================================
+[   0.0s] Starting safety checks | RAM: 10.4%
+[   0.0s] Adding Python path | RAM: 10.5%
+[   0.0s] Importing chat module | RAM: 10.5%
+[   7.8s] Starting RAG system | RAM: 10.9%
+
+============================================================
+STARTUP: 2025-09-30 15:36:13.473892
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Safety checks for direct chat | RAM: 12.2% | GPU: 0.0GB
+NORMAL EXIT after 1.7s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 15:36:53.894130
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Safety checks for direct chat | RAM: 12.3% | GPU: 0.0GB
+[   1.7s] Loading Llama model on GPU | RAM: 12.3% | GPU: 0.0GB
+
+============================================================
+STARTUP: 2025-09-30 15:38:56.037274
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading Llama model on GPU | RAM: 15.9% | GPU: 0.0GB
+NORMAL EXIT after 16.4s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 15:39:46.495077
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading Llama model on GPU | RAM: 16.0% | GPU: 0.0GB
+NORMAL EXIT after 16.6s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 15:40:34.533953
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading Llama model on GPU | RAM: 13.4% | GPU: 0.0GB
+NORMAL EXIT after 17.0s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 15:44:57.291656
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Safety checks for direct chat | RAM: 13.3% | GPU: 0.0GB
+[   1.7s] Loading Llama model on GPU | RAM: 13.3% | GPU: 0.0GB
+[  25.0s] Generating response to: hello, what is 2 +2 ?... | RAM: 13.7% | GPU: 5.3GB
+[  39.4s] Generating response to: no words?... | RAM: 14.9% | GPU: 5.3GB
+[ 112.3s] Generating response to: What is 2+2?... | RAM: 15.0% | GPU: 5.3GB
+NORMAL EXIT after 156.6s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 15:47:48.492048
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Safety checks for direct chat | RAM: 13.4% | GPU: 0.0GB
+[   1.7s] Loading Llama model on GPU | RAM: 13.4% | GPU: 0.0GB
+[  17.5s] Generating response to: hello... | RAM: 13.7% | GPU: 5.3GB
+[  23.5s] Generating response to: what is 2+2?... | RAM: 15.0% | GPU: 5.3GB
+NORMAL EXIT after 61.9s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 15:49:41.357066
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+NORMAL EXIT after 25.9s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 15:51:21.674647
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Safety checks for direct chat | RAM: 13.6% | GPU: 0.0GB
+[   1.8s] Loading Llama model on GPU | RAM: 13.6% | GPU: 0.0GB
+[  18.3s] Generating response to: Hello... | RAM: 14.0% | GPU: 5.3GB
+[  25.2s] Generating response to: 2+2?... | RAM: 15.2% | GPU: 5.3GB
+[  34.5s] Generating response to: What is the capital of Italy?... | RAM: 15.2% | GPU: 5.3GB
+[  45.1s] Generating response to: Do you know HVAC?... | RAM: 15.2% | GPU: 5.3GB
+NORMAL EXIT after 93.8s
+============================================================
+
+============================================================
+STARTUP: 2025-09-30 16:09:30.343135
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading model for web interface | RAM: 13.9% | GPU: 0.0GB
+[  41.2s] Web chat: hello what is the weather toda... | RAM: 15.0% | GPU: 5.3GB
+[  76.5s] Web chat: can you do complex math?... | RAM: 16.2% | GPU: 5.3GB
+
+*** CRASH DETECTED at 99.2s ***
+Reason: Received signal 2
+RAM usage: 16.2%
+GPU memory: 5.3GB
+Stack trace:
+NoneType: None
+
+============================================================
+NORMAL EXIT after 99.2s
+============================================================
+
+============================================================
+STARTUP: 2025-10-02 10:03:12.006053
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading RAG pipeline | RAM: 27.8% | GPU: 0.0GB
+[ 128.7s] RAG chat: What is this document about?... | RAM: 27.2% | GPU: 5.4GB
+[ 153.2s] RAG chat: What are the main topics cover... | RAM: 28.6% | GPU: 5.4GB
+[ 233.5s] RAG chat: hello can you size a spry drye... | RAM: 29.0% | GPU: 5.4GB
+[ 266.5s] RAG chat: can you size a dehumidifier?... | RAM: 28.9% | GPU: 5.4GB
+
+============================================================
+STARTUP: 2025-10-02 10:19:14.437796
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading RAG pipeline | RAM: 27.3% | GPU: 0.0GB
+[  37.7s] RAG chat: hello can you size a dehumidif... | RAM: 27.9% | GPU: 5.4GB
+[2208.3s] RAG chat: can you size a dehumidifer for... | RAM: 28.8% | GPU: 5.4GB
+
+============================================================
+STARTUP: 2025-10-02 11:09:58.226105
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading RAG pipeline | RAM: 24.9% | GPU: 0.0GB
+[3606.8s] RAG chat: what is moisture load from a p... | RAM: 27.5% | GPU: 5.4GB
+
+============================================================
+STARTUP: 2025-10-02 12:36:08.452583
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading RAG pipeline | RAM: 27.8% | GPU: 0.0GB
+
+============================================================
+STARTUP: 2025-10-02 12:36:15.230169
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   0.1s] Loading RAG pipeline | RAM: 28.2% | GPU: 0.0GB
+[ 151.4s] RAG chat: hello, can you size a dehumidi... | RAM: 31.1% | GPU: 5.4GB
+
+*** CRASH DETECTED at 592.8s ***
+Reason: Received signal 2
+RAM usage: 29.3%
+GPU memory: 5.4GB
+Stack trace:
+NoneType: None
+
+============================================================
+NORMAL EXIT after 593.0s
+============================================================
+
+============================================================
+STARTUP: 2025-10-02 12:47:47.961800
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading RAG pipeline | RAM: 27.2% | GPU: 0.0GB
+[  54.4s] RAG chat: Size a dehumidifier for 50m² r... | RAM: 27.6% | GPU: 5.4GB
+[ 203.7s] RAG chat: room temperature = 20   room h... | RAM: 29.2% | GPU: 5.4GB
+[ 388.3s] RAG chat: 4 people in the room.  cfm per... | RAM: 34.0% | GPU: 5.4GB
+[ 444.8s] RAG chat: 20 cfm... | RAM: 34.1% | GPU: 5.4GB
+
+*** CRASH DETECTED at 949.9s ***
+Reason: Received signal 2
+RAM usage: 39.3%
+GPU memory: 5.4GB
+Stack trace:
+NoneType: None
+
+============================================================
+NORMAL EXIT after 950.3s
+============================================================
+
+============================================================
+STARTUP: 2025-10-02 13:39:34.835020
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading RAG pipeline | RAM: 31.2% | GPU: 0.0GB
+[  48.4s] RAG chat: Size a dehumidifier for 50m² r... | RAM: 31.6% | GPU: 5.4GB
+[ 453.9s] RAG chat: 1. 20  2. 20%  3. 30  4 80%... | RAM: 37.3% | GPU: 5.4GB
+
+*** CRASH DETECTED at 609.2s ***
+Reason: Received signal 2
+RAM usage: 43.5%
+GPU memory: 6.0GB
+Stack trace:
+NoneType: None
+
+============================================================
+
+*** CRASH DETECTED at 630.5s ***
+Reason: Received signal 2
+RAM usage: 42.8%
+GPU memory: 5.4GB
+Stack trace:
+NoneType: None
+
+============================================================
+NORMAL EXIT after 631.0s
+============================================================
+
+============================================================
+STARTUP: 2025-10-02 16:18:37.172866
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   2.1s] Loading RAG pipeline | RAM: 31.4% | GPU: 0.0GB
+[  70.2s] RAG chat: Hello can you size a dehumidif... | RAM: 32.1% | GPU: 5.4GB
+[ 411.0s] RAG chat: 1. 20 2. 150... | RAM: 36.7% | GPU: 5.4GB
+
+*** CRASH DETECTED at 560.7s ***
+Reason: Received signal 2
+RAM usage: 34.8%
+GPU memory: 5.4GB
+Stack trace:
+NoneType: None
+
+============================================================
+NORMAL EXIT after 561.1s
+============================================================
+
+============================================================
+STARTUP: 2025-10-02 16:28:40.757738
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+RAM: 63.5GB
+GPU: NVIDIA RTX 2000 Ada Generation Laptop GPU
+GPU Memory: 8.0GB
+============================================================
+[   1.7s] Loading RAG pipeline | RAM: 26.2% | GPU: 0.0GB
+[ 120.7s] RAG chat: hello can you size a dehumidif... | RAM: 26.8% | GPU: 5.3GB
+[ 567.7s] RAG chat: 1. 20  2. 80%... | RAM: 35.1% | GPU: 5.3GB

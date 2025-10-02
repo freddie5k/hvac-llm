@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./venv/Scripts/python.exe check_retrieval_sources.py:*)",
+      "Bash(./venv/Scripts/python.exe:*)",
+      "Bash(tasklist)",
+      "Bash(nvidia-smi:*)",
+      "Bash(curl:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
