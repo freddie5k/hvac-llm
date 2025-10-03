@@ -20,7 +20,9 @@ data/vectorstore/
 
 # Model cache
 .cache/
-models/
+# Note: We don't ignore src/rag_system/models/ (that's source code)
+# Only ignore model download cache in root
+/models/
 
 # IDE
 .vscode/
